@@ -87,6 +87,18 @@ Olá! Meu nome é **Marcus Betti**, sou um estudante de **Desenvolvimento de Sof
     - [Aprendizado](#aprendizado-2)
   </details>
 
+### Quarto semestre
+
+- [4º Semestre • 2/2024 • SUS](#4º-semestre--12024--sus)
+  <details>
+    <summary>Informações</summary>
+  
+    - [Visão do projeto](#visão-do-projeto-3)
+    - [Tecnologias utilizadas](#tecnologias-utilizadas-3)
+    - [Contribuições pessoais](#contribuições-pessoais-3)
+    - [Aprendizado](#aprendizado-3)
+  </details>
+
 ---
 
 # Sobre mim
@@ -247,5 +259,53 @@ https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-
  
 <h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_3</h6>
 
-
 ---
+
+
+### 4º Semestre • 2/2024 • SUS - Gerenciamento do Clima
+
+Cliente externo: Tecsus.
+
+https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-2866f25f72ab
+
+#### Visão do projeto
+
+<p>Projeto desenvolvido no 3º semestre do curso de Desenvolvimento de Software Multiplataforma da Fatec São José dos Campos - Prof. Jessen Vidal.</p>
+<p>O projeto consistiu na criação de uma aplicação web para o monitoramento dos ativos (tangíveis e intangíveis) de uma empresa, com informações sobre o valor atual do ativo, onde ele está no momento, seu responsável, manutenções, entre outros.</p>
+
+No API deste semestre, desenvolvemos um sistema para coletar dados de sensores (direção e velocidade do vento, índice pluviométrico, umidade, temperatura e pressão), tratá‑los e exibi‑los em um portal com dashboards e relatórios. Geração de alertas: ferramenta de monitoramento ambiental para lidar com desastres naturais. Recurso didático: a demonstração dos conceitos matemáticos usados nos cálculos dos parâmetros. 
+
+
+#### Tecnologias utilizadas
+
+- JWT: autenticação e autorização
+- bcrypt: hashing de senhas
+- Typescript, Node.js: backend
+- Swagger: documentação de APIs
+- AWS, Vercel: hospedagem e deploy automático
+- Github Actions: pipeline de integração contínua
+- React e Typescript: front‑end
+- PostgreSQL, Neon: banco de dados
+- Redis: banco de dados em memória
+
+#### Contribuições pessoais
+
+      Autenticação e Autorização: Desenvolvi funcionalidades de CRUD de usuários, sistema de login e proteção de rotas utilizando bcrypt para hashing de senhas e JWT para geração de tokens de acesso.
+    Integração Contínua: Desenvolvi pipelines de Integração Contínua (CI) e implementei seus scripts com GitHub Actions para integrar testes e deploys automatizados.
+    Documentação de APIs: Utilizei Swagger para documentar as rotas relativas a usuários e login, facilitando a comunicação e integração entre as equipes de front-end e back-end.
+
+#### Aprendizado
+
+- Hard Skills:
+  - Uso da linguagem Java e framework Spring: sei fazer com relativa autonomia.
+  - Uso de banco de dados PosgreSQL e do Supabase (banco de dados Postgre on-line): sei fazer com autonomia.
+  - Melhora nos conhecimentos na criação de APIs (interface de programação de aplicações): sei fazer com autonomia.
+  - Metodologia Ágil SCRUM: sei fazer com autonomia.
+
+- Soft Skills:
+  - Trabalho em equipe, gestão do tempo para lidar com demandas mais intensas.
+  - Resiliência: devido a dificuldades em uma das sprints, tivemos que nos reorganizar solucionar os problemas e apresentar entregas satisfatórias dentro do cronograma.
+  - Aperfeiçoamento do processo de desenvolvimento com a adoção de Integração e Entrega Contínua.
+  
+ 
+<h6 align="center"> Link do projeto: https://github.com/equipe-javali/API_4</h6>

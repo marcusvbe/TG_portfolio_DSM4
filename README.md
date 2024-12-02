@@ -89,7 +89,7 @@ Olá! Meu nome é **Marcus Betti**, sou um estudante de **Desenvolvimento de Sof
 
 ### Quarto semestre
 
-- [4º Semestre • 2/2024 • SUS](#4º-semestre--12024--sus)
+- [4º Semestre • 2/2024 • SUS](#4º-semestre--12024--sus--gerenciamento-de-clima)
   <details>
     <summary>Informações</summary>
   
@@ -266,11 +266,9 @@ https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-
 
 Cliente externo: Tecsus.
 
-https://github.com/equipe-javali/API_3/assets/110677265/647cf17a-d783-4200-a996-2866f25f72ab
-
 #### Visão do projeto
 
-<p>Projeto desenvolvido no 3º semestre do curso de Desenvolvimento de Software Multiplataforma da Fatec São José dos Campos - Prof. Jessen Vidal.</p>
+<p>Projeto desenvolvido no 4º semestre do curso de Desenvolvimento de Software Multiplataforma da Fatec São José dos Campos - Prof. Jessen Vidal.</p>
 <p>O projeto consistiu na criação de uma aplicação web para o monitoramento dos ativos (tangíveis e intangíveis) de uma empresa, com informações sobre o valor atual do ativo, onde ele está no momento, seu responsável, manutenções, entre outros.</p>
 
 No API deste semestre, desenvolvemos um sistema para coletar dados de sensores (direção e velocidade do vento, índice pluviométrico, umidade, temperatura e pressão), tratá‑los e exibi‑los em um portal com dashboards e relatórios. Geração de alertas: ferramenta de monitoramento ambiental para lidar com desastres naturais. Recurso didático: a demonstração dos conceitos matemáticos usados nos cálculos dos parâmetros. 
@@ -297,9 +295,11 @@ No API deste semestre, desenvolvemos um sistema para coletar dados de sensores (
 #### Aprendizado
 
 - Hard Skills:
-  - Uso da linguagem Java e framework Spring: sei fazer com relativa autonomia.
-  - Uso de banco de dados PosgreSQL e do Supabase (banco de dados Postgre on-line): sei fazer com autonomia.
-  - Melhora nos conhecimentos na criação de APIs (interface de programação de aplicações): sei fazer com autonomia.
+  - Uso da linguagem Typescript e framework Node: sei fazer com autonomia.
+  - Uso de Swagger para documentação: sei fazer com autonomia.
+  - Scripts de CI/CD com Github Actions: sei fazer com autonomia.
+  - Uso de bcrypt para critptografia/descriptografia das senhas: sei fazer com autonomia.
+  - JWT para autenticação e autorização: sei fazer com relativa autonomia.
   - Metodologia Ágil SCRUM: sei fazer com autonomia.
 
 - Soft Skills:
